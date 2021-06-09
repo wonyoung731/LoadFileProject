@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8YqoIdhuwzGL13Mm512N/uK6UngmiGVTNzNJzatJOmBOfN5T8eJ505tCgAx45zWu1m3OTefZQwFhFnuZABHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HyunJong\\Desktop\\wy\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HyunJong\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
